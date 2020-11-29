@@ -4,6 +4,7 @@ Desarrollamos el seftbot, que es un proyecto a pequeña escala, utilizando méto
 
 2-Mantenimiento de software:
 Esto ocurre en nuestro proyecto a la hora de hacer el desarrollo y a la hora de probar partes del bot para que sean funcionales (como que el bot de información relacionado a la ansiedad y como tratarla), y el uso del tiempo ocurre cuando mostramos avances al profesor y el lunes 30 de noviembre con la presentación de nuestro proyecto 
+
 3-Administración de los procesos de software:
 Esto aparece en el proyecto desde que se da la idea, ya que después a base de diferentes procesos, y de diferentes pruebas, se llevan acabo los requisitos que el software (como de que el bot de cómo tratar la ansiedad o información relacionado a eso) debe cumplir para que después entre los diferentes miembros del equipo lleven a cabo pruebas (ya sea de caja negra, blanca o unitaria), esto llevado acabo por el modelo de trabajo scrum
 
